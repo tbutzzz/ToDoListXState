@@ -22,6 +22,8 @@ function App() {
     }
   });
 
+  // test comment
+
   return (
     <div>
       <pre> {JSON.stringify(state.value)} </pre>
